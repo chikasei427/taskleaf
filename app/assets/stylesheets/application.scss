@@ -1,1 +1,13 @@
 @import "bootstrap";
+#error_explanation{
+    color:white;
+    list-style:none;
+}
+
+#error_explanation li{
+    background-color:blue;
+    display:inline;
+    padding:10px;
+    border-radius:10px;
+}
+
